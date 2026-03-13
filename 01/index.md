@@ -182,8 +182,6 @@ The 16 binary logic gates are:
 This seems like a lot of detail, but keep in mind that the bottom half
 (everything from NAND to FALSE is just the negation of the top half).
 
-[To Be Expanded Upon]
-
 # Canonical implementations of Booleans:
 
 ## AND
